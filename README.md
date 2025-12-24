@@ -137,6 +137,7 @@ npm install
 npm run dev
 
 🔐 API Endpoints
+```
 Auth Routes
 Method	Endpoint	Description
 POST	/api/auth/signup	Register new user
@@ -150,6 +151,7 @@ PUT	/api/events/:id	Update event
 DELETE	/api/events/:id	Delete event
 
 All event routes require Bearer Token authentication.
+```
 
 🎨 UI/UX Features
 
