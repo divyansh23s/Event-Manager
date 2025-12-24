@@ -209,3 +209,27 @@ Tech Stack: React, Node.js, Express, MySQL
 📄 License
 
 This project is for educational and internship training purposes.# event-manager
+
+📂 Project Structure
+
+my-event-app/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   │   └── AuthContext.jsx
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   └── index.html
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   │   └── config.json
+│   ├── server.js
+│   └── package.json
+
