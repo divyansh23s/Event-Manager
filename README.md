@@ -77,39 +77,30 @@ Database
 
 MySQL / MariaDB (Workbench or CLI)
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 my-event-app/
-│
 ├── frontend/
-
 │   ├── src/
-
 │   │   ├── components/
-
 │   │   ├── pages/
-
-│   │   ├── context/AuthContext.jsx
-
+│   │   ├── context/
+│   │   │   └── AuthContext.jsx
 │   │   ├── App.jsx
-
 │   │   └── main.jsx
-
 │   └── index.html
 │
-└── backend/
-
-    ├── controllers/
-    ├── models/
-    
-    ├── routes/
-    
-    ├── middleware/
-    
-    ├── config/config.json
-    
-    ├── server.js
-    
-    └── package.json
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   │   └── config.json
+│   ├── server.js
+│   └── package.json
+```
 
 ⚙️ Installation & Setup
 Prerequisites
@@ -210,27 +201,4 @@ Tech Stack: React, Node.js, Express, MySQL
 
 This project is for educational and internship training purposes.# event-manager
 
-## 📂 Project Structure
 
-```
-my-event-app/
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   │   └── AuthContext.jsx
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── index.html
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   │   └── config.json
-│   ├── server.js
-│   └── package.json
-```
