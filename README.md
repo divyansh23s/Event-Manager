@@ -210,8 +210,9 @@ Tech Stack: React, Node.js, Express, MySQL
 
 This project is for educational and internship training purposes.# event-manager
 
-📂 Project Structure
+## 📂 Project Structure
 
+```
 my-event-app/
 ├── frontend/
 │   ├── src/
@@ -232,4 +233,4 @@ my-event-app/
 │   │   └── config.json
 │   ├── server.js
 │   └── package.json
-
+```
