@@ -78,25 +78,25 @@ Database
 MySQL / MariaDB (Workbench or CLI)
 
 📂 Project Structure
-my-event-app/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/AuthContext.jsx
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── index.html
-│
-└── backend/
-    ├── controllers/
-    ├── models/
-    ├── routes/
-    ├── middleware/
-    ├── config/config.json
-    ├── server.js
-    └── package.json
+    my-event-app/
+    │
+    ├── frontend/
+    │   ├── src/
+    │   │   ├── components/
+    │   │   ├── pages/
+    │   │   ├── context/AuthContext.jsx
+    │   │   ├── App.jsx
+    │   │   └── main.jsx
+    │   └── index.html
+    │
+    └── backend/
+        ├── controllers/
+        ├── models/
+        ├── routes/
+        ├── middleware/
+        ├── config/config.json
+        ├── server.js
+        └── package.json
 
 ⚙️ Installation & Setup
 Prerequisites
