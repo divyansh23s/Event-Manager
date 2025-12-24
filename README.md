@@ -97,8 +97,8 @@ my-event-app/
 │   └── index.html
 │
 └── backend/
+
     ├── controllers/
-    
     ├── models/
     
     ├── routes/
