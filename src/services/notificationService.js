@@ -1,6 +1,6 @@
 import api from '../api/axios';
 
-/**
+/*
  * Notification Service
  * Handles all notification-related API calls
  */
