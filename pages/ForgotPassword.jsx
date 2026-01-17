@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import api from "../src/api/axios";
-import { toast } from "react-toastify";
+// import { toast } from "react-toastify";
 import { Link, useNavigate } from "react-router-dom";
 
 const ForgotPassword = () => {
